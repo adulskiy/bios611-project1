@@ -1,9 +1,9 @@
 Bios611-project1
 ===========
-Superhero Powers Dataset
+Coral Growth and Storms  Dataset
 ---------
 
-This repo will eventually contain an analysis of the Superhero Powers Dataset.
+This repo will eventually contain an analysis of the Coral Growth and Storms Dataset.
 
 Usage
 ------
