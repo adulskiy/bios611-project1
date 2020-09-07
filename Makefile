@@ -8,3 +8,5 @@ derived_data/growth.csv derived_data/stormradius.csv:\
 	source_data/YIRCR12S_StormRadius.csv\
 	tidy_data.R
 		Rscript tidy_data.R
+	data_eda.R
+		Rscript data_eda.R
