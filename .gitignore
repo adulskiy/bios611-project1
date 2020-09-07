@@ -1,3 +1,6 @@
 .local/*
 .rstudio/*
 .config/*
+.bash_history*
+.gitconfig*
+.ssh/*
