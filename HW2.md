@@ -12,13 +12,13 @@ I obtained this data set from my research advisor, so I'm excited to explore it 
 
 #### 2. Some very preliminary figures.
 
-![image-20200907220827636](/Users/anadulskiy/Library/Application Support/typora-user-images/image-20200907220827636.png)
+![image](https://user-images.githubusercontent.com/69562261/92425851-67d95800-f156-11ea-87d1-8a70654d912a.png)
+
+![image](https://user-images.githubusercontent.com/69562261/92426052-edf59e80-f156-11ea-9ef9-9f1e4365a65a.png)
+
+![image](https://user-images.githubusercontent.com/69562261/92426070-f352e900-f156-11ea-8a65-11f05d164c5a.png)
 
 
-
-![image-20200907213202771](/Users/anadulskiy/Library/Application Support/typora-user-images/image-20200907213202771.png)
-
-![image-20200907213208533](/Users/anadulskiy/Library/Application Support/typora-user-images/image-20200907213208533.png)
 
 ### 3. A description of a handful of questions you hope to be able to answer about the dataset.
 
