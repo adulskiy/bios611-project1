@@ -1,4 +1,4 @@
-# Homework 2
+
 
 ### Proposal for BIOS 611 Project 1
 
@@ -12,7 +12,9 @@ I obtained this data set from my research advisor, so I'm excited to explore it 
 
 #### 2. Some very preliminary figures.
 
-![image-20200907213157655](/Users/anadulskiy/Library/Application Support/typora-user-images/image-20200907213157655.png)
+![image-20200907220827636](/Users/anadulskiy/Library/Application Support/typora-user-images/image-20200907220827636.png)
+
+
 
 ![image-20200907213202771](/Users/anadulskiy/Library/Application Support/typora-user-images/image-20200907213202771.png)
 
