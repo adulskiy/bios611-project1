@@ -2,9 +2,10 @@
 .rstudio/*
 .config/*
 .bash_history*
-.gitconfig*
 .ssh/*
 
-assets/
+derived_data/*.csv
+figures/*.png
+.DS_Store
 
 
