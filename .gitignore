@@ -8,4 +8,6 @@ derived_data/*.csv
 figures/*.png
 .DS_Store
 
+Rplots.pdf
+
 
