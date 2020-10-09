@@ -9,6 +9,5 @@ figures/*.png
 .DS_Store
 
 Rplots.pdf
-data_eda.R
 exploratory_data.R
 
