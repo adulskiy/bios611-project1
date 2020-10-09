@@ -16,13 +16,13 @@ This data set was obtained from my research advisor, so I'm excited to explore i
 
 **Let's first find out how the frequency of storms has varied from 1988-2015.**
 
-![storms_frequency](/Users/anadulskiy/storage/bios611-project1/assets/storms_frequency.png)
+![storms_frequency](assets/storms_frequency.png)
 
 From 1988-1998, it seems like there were no more than 2 storms/year coming in vicinity of this particular coral, and some years there were no storms at all. We start to see a gradual increase in the frequency of storms, with a whopping 8 storms coming in vicinity of the coral in 2005! Since 1997 there hasn't been one year with 0 storms coming near this coral. However, it seems like there has been a decrease since 2005. Maybe there was a unique atmospheric event around 2005 that led to an increase in storm frequency? Or maybe this is just an outlier.
 
 **Let's overlay storm category, which is a measure of strength based upon the sea level pressure of the storm, on the histogram above.**
 
-![storms_frequency_category](/Users/anadulskiy/storage/bios611-project1/assets/storms_frequency_category.png)
+![storms_frequency_category](assets/storms_frequency_category.png)
 
 It seems like the frequency of higher category storms increased slightly in the early 2000s. 
 
@@ -32,7 +32,7 @@ It seems like the frequency of higher category storms increased slightly in the 
 
 **First, I'll plot the change in density, calcification, and linear extension over time (1890-2014).**
 
-![annualgrowth_compiled](/Users/anadulskiy/storage/bios611-project1/assets/annualgrowth_compiled.png)
+![annualgrowth_compiled](assets/annualgrowth_compiled.png)
 
 It looks like after around 1975, there's a decrease in all three variables. My guess is this likely has more to do with thermal stress than storms, but let's zoom in to 1990-2015. In addition, the fit of the line above is likely not that strong looking at the dispersion of the points.
 
@@ -40,13 +40,13 @@ It looks like after around 1975, there's a decrease in all three variables. My g
 
 **It might be more useful to view this data by the change in each of the growth variables per year.**
 
-![annualchange_compiled](/Users/anadulskiy/storage/bios611-project1/assets/annualchange_compiled.png)
+![annualchange_compiled](assets/annualchange_compiled.png)
 
 No clear patterns in the plots above.
 
 **Zooming in on data since 1988** (dates that we have both growth and storm data)
 
-![annualgrowth_since1988_compiled](/Users/anadulskiy/storage/bios611-project1/assets/annualgrowth_since1988_compiled.png)
+![annualgrowth_since1988_compiled](assets/annualgrowth_since1988_compiled.png)
 
 
 
