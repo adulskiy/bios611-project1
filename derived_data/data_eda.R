@@ -94,7 +94,7 @@ linext2
 
 annualgrowth_since1990_compiled <- linext2 + calc2 + dens2
 
-ggsave("assets/annualgrowth_since1990_compiled.png", plot = annualgrowth_since1990_compiled)
+ggsave("assets/annualgrowth_since1988_compiled.png", plot = annualgrowth_since1988_compiled)
 
 # with geom_line() instead of geom_smooth()
 dens3 <- ggplot(data = sg.since1988, aes(x = year, y = density)) +
