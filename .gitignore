@@ -11,3 +11,9 @@ figures/*.png
 Rplots.pdf
 exploratory_data.R
 
+.Rhistory
+.Renviron
+some-file
+
+# Initial draft of report made in typora.
+report*
