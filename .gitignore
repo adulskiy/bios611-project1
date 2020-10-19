@@ -5,7 +5,7 @@
 .ssh/*
 
 derived_data/*.csv
-figures/*.png
+figures/*
 .DS_Store
 
 Rplots.pdf
