@@ -1,0 +1,14 @@
+.local/*
+.rstudio/*
+.config/*
+.bash_history*
+.ssh/*
+
+derived_data/*.csv
+source_data/*.csv
+figures/*.png
+.DS_Store
+
+Rplots.pdf
+exploratory_data.R
+
