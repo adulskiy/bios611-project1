@@ -131,7 +131,7 @@ https://github.com/Vincent-Toups/bios611-project1/blob/master/source_data/datase
 
       Most of the variation is from one component (PC1).
 
-      ![q2.2_pca1](/bios611-project1/homeworks/HW5/q2.2_pca1.png)
+      ![q2.2_pca1](https://github.com/adulskiy/bios611-project1/blob/master/homeworks/HW5/q2.2_pca1.png)
 
       
 
