@@ -87,8 +87,7 @@ trainIndex <- createDataPartition(q3$Gender, p = split, list = FALSE)
 train <- q3[trainIndex,]
 test <- q3[-trainIndex,]
 
-# GLM
-
+# GBM
 model <- glm(Gender ~ Height +
                Weight, family = binomial(link = 'logit'), data = train)
 pred <- predict(model, newdata = test, type = "response");
