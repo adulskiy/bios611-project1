@@ -19,3 +19,7 @@ some-file
 report*
 
 RMD-report.html
+
+.cache/*
+.ipynb_checkpoints/*
+
