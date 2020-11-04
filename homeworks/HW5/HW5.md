@@ -147,7 +147,7 @@ https://github.com/Vincent-Toups/bios611-project1/blob/master/source_data/datase
       fviz_eig(pca_nototal)
       ```
 
-      ![q2.2_pca_nototal](/Users/anadulskiy/storage/bios611-project1/homeworks/HW5/q2.2_pca_nototal.png)
+      ![q2.2_pca_nototal](https://github.com/adulskiy/bios611-project1/blob/master/homeworks/HW5/q2.2_pca_nototal.png)
 
       Same situation, although even more severe.
 
@@ -208,7 +208,7 @@ https://github.com/Vincent-Toups/bios611-project1/blob/master/source_data/datase
       fviz_pca_var(pca_ds)
       ```
 
-      ![q2.6_pca](/Users/anadulskiy/storage/bios611-project1/homeworks/HW5/q2.6_pca.png)
+      ![q2.6_pca](https://github.com/adulskiy/bios611-project1/blob/master/homeworks/HW5/q2.6_pca.png)
 
 
 
@@ -230,7 +230,7 @@ See the aliases file in Lecture 16 for how to launch your Jupyter Lab.
 
 1. Results plotted in R:
 
-   ![tsneplot_R](/Users/anadulskiy/storage/bios611-project1/homeworks/HW5/tsneplot_R.png)
+   ![tsneplot_R](https://github.com/adulskiy/bios611-project1/blob/master/homeworks/HW5/tsneplot_R.png)
 
    ​	It looks like the TSNE dimensionality reduction does not do a good job of clustering by alignment.
 
@@ -240,7 +240,7 @@ Reproduce your plot in Python with plotnine (or the library of your choice).
 
 1. Results plotted in Python:
 
-   ![tsneplot_python](/Users/anadulskiy/storage/bios611-project1/homeworks/tsneplot_python.png)
+   ![tsneplot_python](https://github.com/adulskiy/bios611-project1/blob/master/homeworks/HW5/tsneplot_python.png)
 
 # Q5
 
