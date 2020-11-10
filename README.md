@@ -34,10 +34,13 @@ Shiny
 ------
 The Shiny app depends on the pre-processed sg.csv dataset.
 To make this file, use this command:
+
     >make sg.csv
 
 To run the R shiny app, use this command:
+
     >PORT=8080 make shiny
     
 And go to this address in your browser to view the interactive plots:
+
     >http://localhost:8080/
