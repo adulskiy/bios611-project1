@@ -22,8 +22,8 @@ RMD-report.html
 
 .cache/*
 .ipynb_checkpoints*
-homeworks/.ipynb_checkpoints*
+homeworks/HW5/.ipynb_checkpoints*
 
 # Rshiny
-shinyproject/test.R
-defunct.shinyproject.R
+shinyproject/test*
+defunct*
