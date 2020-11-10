@@ -7,6 +7,7 @@ clean:
 	rm -f assets/*.png
 	rm -f RMD-report.pdf
 
+# Project 1
 report.pdf:\
  RMD-report.Rmd\
  assets/storms_frequency.png\
@@ -55,3 +56,16 @@ assets/annualgrowth_since1988_compiled.png:\
  derived_data/Growth.csv\
  annualgrowth_since1988_compiled.R
 	Rscript annualgrowth_since1988_compiled.R
+
+
+
+# Project 2
+
+.PHONY: shiny
+shiny: shinyproject/data/sg.csv
+	Rscript shinyproject/app.R ${PORT}
+	
+sg.csv: source_data/YIRCR12S_Growth.csv\
+ source_data/YIRCR12S_StormRadius.csv\
+ sg.R
+	Rscript sg.R

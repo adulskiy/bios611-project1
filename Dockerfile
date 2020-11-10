@@ -6,6 +6,7 @@ RUN R -e "install.packages('caret')"
 RUN R -e "install.packages('gbm')"
 RUN R -e "install.packages('MLmetrics')"
 RUN R -e "install.packages('factoextra')"
+RUN R -e "install.packages('shiny')"
 
 
 RUN apt update -y && apt install -y python3-pip
