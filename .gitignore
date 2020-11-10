@@ -21,8 +21,8 @@ report*
 RMD-report.html
 
 .cache/*
-.ipynb_checkpoints/*
-homeworks/.ipynb_checkpoints/*
+.ipynb_checkpoints*
+homeworks/.ipynb_checkpoints*
 
 # Rshiny
 shinyproject/test.R
