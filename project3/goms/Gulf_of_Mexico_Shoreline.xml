@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>Shoreline Gulf of Mexico</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This polygon GIS data set represents the shoreline of the Gulf states and eastern Mexico</abstract>
+            <purpose>To visually represent geospatial data of the Gulf shoreline.</purpose>
+            <supplinf>Prior to July 1, 2004, the Fish and Wildlife Research Institute (FWRI) was known as the Florida Marine Research Institute (FMRI). The institute name has not been changed in historical data sets or references to work completed by the Florida Marine Research Institute. The institute name has been changed in references to ongoing research, new research, and contact information. Many missing small islands (e.g. Tierra Verde). Better linework than US_GULFSE_80 (a historical layer). Similar linework as FL_100 (FMRI.fl_100k_poly_H) in Florida.</supplinf>
+        </descript>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-100.407802</westbc>
+                <eastbc>-79.836807</eastbc>
+                <northbc>31.941176</northbc>
+                <southbc>17.018244</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>geoscientificInformation</themekey>
+            </theme>
+            <theme>
+                <themekt>FWRItheme</themekt>
+                <themekey>GIS</themekey>
+                <themekey>coastal</themekey>
+                <themekey>shoreline</themekey>
+                <themekey>mapping</themekey>
+            </theme>
+            <place>
+                <placekt>FWRIplace</placekt>
+                <placekey>Alabama</placekey>
+                <placekey>Florida</placekey>
+                <placekey>Gulf of Mexico</placekey>
+                <placekey>west coast of Florida</placekey>
+            </place>
+            <place>
+                <placekt>FWC Region</placekt>
+                <placekey>FWC Region-Southwest</placekey>
+                <placekey>FWC Region-Northwest</placekey>
+                <placekey>FWC Region-North Central</placekey>
+                <placekey>FWC Region-South</placekey>
+                <placekey>FWC Region-Northeast</placekey>
+            </place>
+            <place>
+                <placekt>Florida Waterbodies</placekt>
+            </place>
+            <place>
+                <placekt>Florida Counties</placekt>
+            </place>
+            <place>
+                <placekt>Water Management Districts</placekt>
+                <placekey>St. Johns River Water Management District</placekey>
+                <placekey>Southwest Florida Water Management District</placekey>
+                <placekey>Suwannee River Water Management District</placekey>
+                <placekey>South Florida Water Management District</placekey>
+                <placekey>Northwest Florida Water Management District</placekey>
+            </place>
+        </keywords>
+        <accconst>Available with Caution. All data must be verified by Principal Investigator or Group Database Analyst prior to release. It is strongly recommended that this data is directly acquired from FWC and not indirectly through other sources which may have changed the data in some way. FWC makes no claims as to the data's suitability for other purposes.</accconst>
+        <useconst>Acknowledgement of the FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute) as the data source would be appreciated in any products developed from these data, and such acknowledgment as is standard for citation and legal practices for data source is expected by users of this data. Please cite the original metadata when using portions of the record to create a similar record of slightly altered data, such as reprojection. If any data are modified or adjusted, please share the edited information with FWC. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. FWC shall not be liable for improper or incorrect use of this data. These data are not legal documents and are not to be used as such. This is not a survey data set and should not be utilized as such. These data are not to be used for navigation.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Fish and Wildlife Research Institute 100 8th Ave. SE</address>
+                    <city>St. Petersburg</city>
+                    <state>FL</state>
+                    <postal>33701</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>727-896-8626</cntvoice>
+                <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+            </cntinfo>
+        </ptcontac>
+        <secinfo>
+            <secsys>FMRI-DC</secsys>
+        </secinfo>
+        <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 1; ESRI ArcCatalog 8.1.1.649</native>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>All entities and attributes have been identified. The accuracy of the attributes has not been verified by FMRI.</attraccr>
+        </attracc>
+        <complete>QA/QC incomplete</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Positional accuracy has not been verified by FMRI.</horizpar>
+            </horizpa>
+        </posacc>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>94</ptvctcnt>
+            </sdtsterm>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>94</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>FMRI.gulf_shore_100_polygon</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LANDTYPE</attrlabl>
+                <attrdef>Land type</attrdef>
+                <attrdomv>
+                    					
+                    <edom>
+                        						
+                        <edomv>W</edomv>
+                        						
+                        <edomvd>Water</edomvd>
+                        					
+                    </edom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>GIS.FWC.gulfofmexico_poly.AREA</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE.LEN</attrlabl>
+                <attrdef>Length of polygon perimeter (in meters). Automatically calculated by SDE</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE.AREA</attrlabl>
+                <attrdef>Area of polygon (in square meters). Automatically calculated by SDE</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal ID used by SDE</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>PERIMETER</attrlabl>
+                <attrdef>Length of polygon perimeter (in meters). Automatically calculated by ArcINFO</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>GULFSH_ID</attrlabl>
+                <attrdef>Internal ID used by ArcINFO</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>GULFSH_</attrlabl>
+                <attrdef>Internal ID used by ArcINFO</attrdef>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                    <cntper>GISLibrarian</cntper>
+                </cntorgp>
+                <cntpos>GIS Data Librarian</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</address>
+                    <city>St. Petersburg</city>
+                    <state>Florida</state>
+                    <postal>33701</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>727-896-8626</cntvoice>
+                <cntfax>727-893-1679</cntfax>
+                <cntemail>GISLibrarian@MyFWC.com</cntemail>
+                <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+            </cntinfo>
+        </distrib>
+        <distliab>This data set is in the public domain, and the recipient may not assert any proprietary rights thereto nor represent it to anyone as other than a FWC-FWRI produced data set or the appropriate originator; it is provided "as-is" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The user assumes all responsibility for the accuracy and suitability of this data set for a specific application. In no event will the staff of the Fish and Wildlife Research Institute be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or the inability to use this data set.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>SHP</formname>
+                </digtinfo>
+            </digform>
+            <fees>None. However, persons or organizations requesting information must provide transfer media if FTP is not available and must pay express shipping costs if express shipping is required.</fees>
+            <ordering>Contact GIS Librarian by e-mail, telephone, or letter explaining which products are needed and providing a brief description of how the products will be used. Also, provide name and address of the person or organization requesting the products.</ordering>
+            <turnarnd>Usually within 10 business days, although, complex requests may take longer</turnarnd>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20020226</metd>
+        <metrd>20060503</metrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                    <cntper>GISLibrarian</cntper>
+                </cntorgp>
+                <cntpos>GIS Data Librarian</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</address>
+                    <city>St. Petersburg</city>
+                    <state>Florida</state>
+                    <postal>33701</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>727-896-8626</cntvoice>
+                <cntfax>727-893-1679</cntfax>
+                <cntemail>GISLibrarian@MyFWC.com</cntemail>
+                <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+        <metac>No restrictions on metadata.</metac>
+        <metuc>Metadata must be distributed with the data set.</metuc>
+        <metsi>
+            <metscs>FMRI-MC</metscs>
+            <metshd>Metadata must be distributed with the data set.</metshd>
+        </metsi>
+    </metainfo>
+</metadata>

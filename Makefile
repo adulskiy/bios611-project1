@@ -69,3 +69,10 @@ sg.csv: source_data/YIRCR12S_Growth.csv\
  source_data/YIRCR12S_StormRadius.csv\
  sg.R
 	Rscript sg.R
+	
+	
+# Project 3
+stormmap.png: project3/data/sg.csv\
+ project3/goms/Gulf_of_Mexico_Shoreline.shp\
+ project3.py
+	python3 project3.py

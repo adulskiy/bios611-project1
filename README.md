@@ -44,3 +44,11 @@ To run the R shiny app, use this command:
 And go to this address in your browser to view the interactive plots:
 
     >http://localhost:8080/
+
+
+Project 3
+-----
+Project 3 produces a map of storm points using Python. These points are colored based on storm category (0-5). It depends on the pre-processed sg.csv dataset, already saved in the data folder under project3.
+
+To produce this plot, use this command:
+    >make stormmap.png
